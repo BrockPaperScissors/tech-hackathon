@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.food-bar-controller {
+	display: flex;
+	flex-direction: column;
+	justify-self: flex-end;
+	width: 70px;
+	height: 525px;
+}
+.food-bar-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 70px;
+	height: 525px;
+	background: #c4c4c4;
+	border: 0.75px solid #000000;
+	border-radius: 7.5px;
+}
+
+.food-bar-background {
+	display: flex;
+	align-items: flex-end;
+	height: 470px;
+	width: 54px;
+	background: #ffffff;
+	border-radius: 30px;
+}
+
+.food-bar {
+	width: 54px;
+	border: 0.75px solid #000000;
+	background: linear-gradient(180deg, #f5eb8d 0%, #dca310 100%);
+	border-radius: 30px;
+}
+
+.food {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 7.5px;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 30px;
+	color: #333333;
+}

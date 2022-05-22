@@ -1,0 +1,36 @@
+.display-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 452px;
+	height: 197px;
+	background-color: #fedb5f;
+	font-size: 70px;
+	border-radius: 11.4px;
+	margin-top: -153px;
+	margin-left: 60px;
+}
+
+.user-input {
+	text-align: center;
+	background-color: white;
+	height: 90px;
+	width: 90px;
+	border-radius: 12px;
+	font-size: 70px;
+	margin-left: 10px;
+	border: 3px solid black;
+	color: black;
+}
+
+.x {
+	background-image: url("https://i.imgur.com/zYcH90l.png");
+	background-position: center;
+	background-size: cover;
+}
+
+.check {
+	background-image: url("https://i.imgur.com/ehkZkL0.png");
+	background-position: center;
+	background-size: cover;
+}
