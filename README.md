@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Cow Mania
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Purpose:
+Build-a-Farm was a 3-day hackathon submission using React.js made by a team of 3 developers and 3 UI/UX specialists.
+The theme of the hackathon was "Accessibility" and Cow Mania focused on trying to provide a fun, engaging way, for younger kids with ADHD to practice math.
 
-## Available Scripts
+### Preview of the homepage:
+![Project Homepage](https://i.imgur.com/k1iB9Wt.png)
 
-In the project directory, you can run:
+### Introduction to Cow Mania - Addition game
+![Game Introduction](https://i.imgur.com/J1EcqKd.png)
 
-### `npm start`
+### Start of Cow Mania
+![Start of Cow Mania](https://i.imgur.com/oCjHxkO.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Mid-game of Cow Mania
+![Middle of the gameplay](https://i.imgur.com/E0WrarO.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Completion of Cow Mania
+![Completion Screen](https://i.imgur.com/UDoEGDe.png)
 
-### `npm test`
+### Takeaways:
+The goal from a design standpoint was to design a platform that gave children with ADHD and other learning disabilities, a fun and engaging way to practice math.
+We tried to keep the screen clear, minimal, and easy to read as to not over stimulate potential users. We introduced a clear cut goal for Cow Mania -- solve addition problems, feed the cow, gain a cow for your farm.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The goal from a technical standpoint of our group was to build the game in a modular way that utilized the potential of React's component driven structure.
+We wanted to create a platform that had a variety of different math-based mini-games, with the ability to choose a scaling difficulty (grade level).
+Ultimately, in just 3 days, we were able to lay the groundwork for such a system, and fully realize one math game that focused on practicing basic arithmetic addition. 
